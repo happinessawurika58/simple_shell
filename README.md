@@ -126,9 +126,8 @@ Example:
 
 $ echo "echo $?" | ./hsh 0
 
-Unable to render expression.
 
-$$
+##### $$
 
 The second $ is substitued with the current process ID.
 
