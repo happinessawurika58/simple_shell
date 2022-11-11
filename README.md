@@ -4,9 +4,10 @@ This is an ALX collaboration project on Shell. We were tasked to create a simple
 
 Project was completed using
 
-C language
-Shell
-Betty linter
+##### C language
+##### Shell
+##### Betty linter
+
 ---
 
 ## General Requirement for project
