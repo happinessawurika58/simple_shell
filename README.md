@@ -235,11 +235,12 @@ Example:
 $ ./hsh $ setenv NAME Poppy $ unsetenv NAME $ echo $NAME
 
 $
+---
 
-What we learned:
+### What we learned:
 
-How a shell works and finds commands
-Creating, forking and working with processes
+How a shell works and finds commands,
+Creating, forking and working with processes,
 Executing a program from another program
 Handling dynamic memory allocation in a large program
 Pair programming and team work
